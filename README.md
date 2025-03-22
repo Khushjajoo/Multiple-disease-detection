@@ -1,3 +1,3 @@
-Multiple Disease Prediction System – Overview
+# Multiple Disease Prediction System – Overview
 
 This project is an interactive, ML-powered website built with Python and Streamlit and deployed using Heroku that predicts the likelihood of three critical health conditions: diabetes, heart disease, and Parkinson’s disease. Using pre-trained SVM models developed with scikit-learn and trained on real-world medical datasets, the website allows users to input clinical parameters and receive instant, data-driven predictions. Each disease module is tailored with its own set of inputs and integrated into a user-friendly interface. Designed with accessibility and early detection in mind, this tool showcases how machine learning can support faster, more informed health assessments 
